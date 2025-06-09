@@ -1,1 +1,17 @@
 @import "tailwindcss";
+
+article{
+    margin-bottom: 5%;
+}
+
+input{
+    border: 1px solid black;
+}
+
+button{
+    border: 1px solid black;
+}
+
+button:hover{
+    background-color: lightblue;
+}
